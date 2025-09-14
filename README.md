@@ -32,4 +32,4 @@ This project uses **n8n workflow automation + OpenAI API** to fetch, summarize, 
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/Datta-Dopewad/finnews-ai]
+git clone [https://github.com/Datta-Dopewad/finnews-ai](https://github.com/Datta-Dopewad/finnews-ai)
